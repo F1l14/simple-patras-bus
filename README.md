@@ -7,4 +7,4 @@ Selecting a stop:<br>
 2. Shows the available buses and their live schedules
 
 # Hosting
-You will need to self host the website, you can use "vercel.com" for your personal use.
+You will need to self host the website, you can use "https://vercel.com" for your personal use.
